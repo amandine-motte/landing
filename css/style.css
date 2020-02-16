@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Tomorrow&display=swap")
+
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+body p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  margin: 0px;
+}
+
+h1,h2,h3 {
+  font-family: 'Tomorrow', sans-serif;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
